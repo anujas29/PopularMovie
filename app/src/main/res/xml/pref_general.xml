@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+        <ListPreference
+            android:title="@string/sort_preference"
+            android:key="@string/sort"
+            android:entries="@array/Entries"
+            android:entryValues="@array/Entry_Values"
+            android:defaultValue="@string/pref_highest_rate_value" />
+
+
+</PreferenceScreen>

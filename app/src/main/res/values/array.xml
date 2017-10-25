@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Entries">
+        <item>@string/pref_highest_rate</item>
+        <item>@string/pref_most_popular</item>
+        <item>@string/pref_fab_movies</item>
+    </string-array>
+
+    <string-array name="Entry_Values">
+        <item>@string/pref_highest_rate_value</item>
+        <item>@string/pref_popular_vaue</item>
+        <item>@string/pref_fab_vaue</item>
+    </string-array>
+
+</resources>

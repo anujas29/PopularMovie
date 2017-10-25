@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">PopularMovie</string>
+    <string name="movie_thumbnail">movie_thumbnail</string>
+    <string name="sort_preference">Sort Movies</string>
+    <string name="sort" translatable="false">sort</string>
+    <string name="title_setting_activity">setting</string>
+    <string name="title_detail_activity">Detail</string>
+
+    <string name="MOVIE_API_KEY" translatable="false">aa6afbbac5ba4c1463591d781620b53e</string>
+    <string name="API_KEY_ATR">api_key</string>
+
+    <string name="pref_highest_rate">Highest Rated</string>
+    <string name="pref_most_popular">Most Popular</string>
+    <string name="pref_fab_movies">Favourites</string>
+
+    <string name="pref_sort_key" translatable="false">sort</string>
+
+    <string name="pref_highest_rate_value" translatable="false">top_rated</string>
+    <string name="pref_popular_vaue" translatable="false">popular</string>
+    <string name="pref_fab_vaue" translatable="false">favourites</string>
+    <string name="no_internet_available">"Network unavailable\nCheck connection and restart app again.."</string>
+
+
+    <string name="trailers">Trailers</string>
+    <string name="rating">/10</string>
+    <string name="reviews">Reviews</string>
+
+    <string name="remove_from_favorites">Remove from Favorites</string>
+    <string name="Add_as_favorites">Mark Favorites</string>
+
+    <!-- Navigation items -->
+    <string name="navigation_item_explore">Explore</string>
+    <string name="navigation_item_favorites">Favorites</string>
+
+
+</resources>
