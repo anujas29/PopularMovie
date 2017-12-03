@@ -3,6 +3,9 @@
 
 An app that allows users to discover the most popular movies playing.
 
+# Video Demo
+https://youtu.be/Y8yHblg6yWg
+
 # Features
 
 * Discover the most popular or the highest rated movies
